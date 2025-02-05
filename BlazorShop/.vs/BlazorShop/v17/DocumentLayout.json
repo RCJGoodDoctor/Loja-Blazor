@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2025\\Projetos\\BlazorShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\migrations\\20250202115552_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\migrations\\20250202115552_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBD4459-A28F-45EF-8FC9-46506CCC7A69}|BlazorShop.Models\\BlazorShop.Models.csproj|d:\\2025\\projetos\\blazorshop\\blazorshop.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBD4459-A28F-45EF-8FC9-46506CCC7A69}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250202115552_Inicial.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Migrations\\20250202115552_Inicial.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Migrations\\20250202115552_Inicial.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Migrations\\20250202115552_Inicial.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Migrations\\20250202115552_Inicial.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:56:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Program.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Program.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:39:35.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:19:20.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrinhoItem.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\CarrinhoItem.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\CarrinhoItem.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\CarrinhoItem.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Entities\\CarrinhoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:15:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Carrinho.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Carrinho.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Carrinho.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Entities\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:14:23.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Categoria.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Categoria.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:56:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Produto.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Entities\\Produto.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:54:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAUwEIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:26:15.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\appsettings.json",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Api\\appsettings.json",
+              "RelativeToolTip": "BlazorShop.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T19:46:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Models\\Class1.cs",
+              "ToolTip": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Models\\Class1.cs",
+              "RelativeToolTip": "BlazorShop.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:42:31.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
