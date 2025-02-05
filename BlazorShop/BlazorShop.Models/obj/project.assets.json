@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
+      "projectUniqueName": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
       "projectName": "BlazorShop.Models",
-      "projectPath": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
+      "projectPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
       "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Models\\obj\\",
+      "outputPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -491,6 +491,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "BlazorShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        }
       }
     },
     "net8.0/browser-wasm": {
@@ -976,6 +986,16 @@
         },
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "BlazorShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
         }
       }
     }
@@ -2048,10 +2068,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BlazorShop.Models/1.0.0": {
+      "type": "project",
+      "path": "../BlazorShop.Models/BlazorShop.Models.csproj",
+      "msbuildProject": "../BlazorShop.Models/BlazorShop.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BlazorShop.Models >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.8",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.8",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
@@ -2064,11 +2090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
+      "projectUniqueName": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
       "projectName": "BlazorShop.Web",
-      "projectPath": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
+      "projectPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
       "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Web\\obj\\",
+      "outputPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2085,7 +2111,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj": {
+              "projectPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

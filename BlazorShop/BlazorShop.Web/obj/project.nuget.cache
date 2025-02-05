@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sF93885AEis=",
+  "dgSpecHash": "5NyXt2xJ7k4=",
   "success": true,
-  "projectFilePath": "D:\\2025\\Projetos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
+  "projectFilePath": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",
