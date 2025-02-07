@@ -9,3 +9,15 @@ D:\2025\Projetos\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models
 D:\2025\Projetos\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\refint\BlazorShop.Models.dll
 D:\2025\Projetos\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.pdb
 D:\2025\Projetos\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\ref\BlazorShop.Models.dll
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.deps.json
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.dll
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.pdb
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.AssemblyInfoInputs.cache
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.AssemblyInfo.cs
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.csproj.CoreCompileInputs.cache
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.sourcelink.json
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.dll
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\refint\BlazorShop.Models.dll
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.pdb
+D:\2025\Loja-Blazor\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\ref\BlazorShop.Models.dll

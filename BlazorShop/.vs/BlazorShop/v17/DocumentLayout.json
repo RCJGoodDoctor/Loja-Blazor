@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FBD4459-A28F-45EF-8FC9-46506CCC7A69}|BlazorShop.Models\\BlazorShop.Models.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.models\\dtos\\carrinhoitematualizaquantidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FBD4459-A28F-45EF-8FC9-46506CCC7A69}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\dtos\\carrinhoitematualizaquantidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:05:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:04:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CarrinhoItemAtualizaQuantidadeDTO.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\DTOs\\CarrinhoItemAtualizaQuantidadeDTO.cs",
               "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CarrinhoItemAtualizaQuantidadeDTO.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CarrinhoItemAdicionarDTO.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\DTOs\\CarrinhoItemAdicionarDTO.cs",
               "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CarrinhoItemAdicionarDTO.cs",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "BlazorShop.Models\\DTOs\\CarrinhoItemAdicionarDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:17:03.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:17:03.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CarrinhoItem.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Entities\\CarrinhoItem.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\CarrinhoItem.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "BlazorShop.Api\\Entities\\CarrinhoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:10:57.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:10:57.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CarrinhoItemDTO.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\DTOs\\CarrinhoItemDTO.cs",
               "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CarrinhoItemDTO.cs",
@@ -93,12 +125,11 @@
               "RelativeToolTip": "BlazorShop.Models\\DTOs\\CarrinhoItemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:10:39.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:10:39.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Categoria.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Entities\\Categoria.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Categoria.cs",
@@ -106,12 +137,11 @@
               "RelativeToolTip": "BlazorShop.Api\\Entities\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:10:08.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:10:08.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoriaDTO.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\DTOs\\CategoriaDTO.cs",
               "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CategoriaDTO.cs",
@@ -119,12 +149,11 @@
               "RelativeToolTip": "BlazorShop.Models\\DTOs\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:09:56.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:09:56.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Produto.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Produto.cs",
@@ -132,12 +161,11 @@
               "RelativeToolTip": "BlazorShop.Api\\Entities\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:07:27.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:07:27.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProdutoDTO.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Models\\DTOs\\ProdutoDTO.cs",
               "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\ProdutoDTO.cs",
@@ -145,8 +173,7 @@
               "RelativeToolTip": "BlazorShop.Models\\DTOs\\ProdutoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:06:46.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T23:06:46.222Z"
             }
           ]
         }
