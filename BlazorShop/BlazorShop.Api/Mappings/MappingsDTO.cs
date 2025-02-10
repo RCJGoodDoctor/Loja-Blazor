@@ -14,7 +14,7 @@ public static class MappingsDTO
             IconCSS = categoria.IconCSS
         }).ToList();
     }
-    public static IEnumerable<ProdutoDTO> ConverterProdutoParaDto(this IEnumerable<Produto> produtos)
+    public static IEnumerable<ProdutoDTO> ConverterProdutosParaDto(this IEnumerable<Produto> produtos)
     {
         return produtos.Select(produto => new ProdutoDTO()
         {
@@ -27,6 +27,21 @@ public static class MappingsDTO
             CategoriaId = produto.Categoria.Id,
             CategoriaNome = produto.Categoria.Nome
         }).ToList();
+    }
+
+    public static ProdutoDTO ConverterProdutoParaDto(this Produto produto)
+    {
+        return new ProdutoDTO()
+        {
+            Id = produto.Id,
+            Nome = produto.Nome,
+            Descricao = produto.Descricao,
+            ImagemUrl = produto.ImagemUrl,
+            Preco = produto.Preco,
+            Quantidade = produto.Quantidade,
+            CategoriaId = produto.Categoria.Id,
+            CategoriaNome = produto.Categoria.Nome
+        };
     }
     public static IEnumerable<CarrinhoItemDTO> ConverterCarrinhosItensParaDTO(this IEnumerable<CarrinhoItem> carrinhos, IEnumerable<Produto> produtos)
     {
