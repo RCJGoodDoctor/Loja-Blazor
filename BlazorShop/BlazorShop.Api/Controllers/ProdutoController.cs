@@ -61,12 +61,12 @@ public class ProdutoController : ControllerBase
         }
     }
     [HttpGet]
-    [Route("GetItensByCategory/categoryId")]
-    public async Task<ActionResult<ProdutoDTO>> GetItensByCategory(int id)
+    [Route("GetItensByCategory/{categoryId}")]
+    public async Task<ActionResult<ProdutoDTO>> GetItensByCategory(int categoryId)
     {
         try
         {
-            var produtos = await _produtoRepository.GetItensByCategory(id);
+            var produtos = await _produtoRepository.GetItensByCategory(categoryId);
             if (produtos is null)
             {
                 return NotFound();
