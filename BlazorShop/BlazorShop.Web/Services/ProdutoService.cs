@@ -23,7 +23,7 @@ public class ProdutoService : IProdutoService
         }
         catch
         {
-            _logger.LogError("Erro ao acessar produtos :  api/produtos");
+            _logger.LogError("Erro ao acessar produtos : api/Produto");
             throw;
         }
     }

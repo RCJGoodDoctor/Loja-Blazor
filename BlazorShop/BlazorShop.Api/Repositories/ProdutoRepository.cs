@@ -17,7 +17,7 @@ public class ProdutoRepository:IProdutoRepository
     {
         var produto = await _context.Produtos
                             .Include(c => c.Categoria)
-                            .SingleOrDefaultAsync(c => c.Id == id);
+                            .SingleOrDefaultAsync(p => p.Id == id);
         return produto;
     }
 

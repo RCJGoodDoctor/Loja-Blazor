@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\2025\\Loja-Blazor\\BlazorShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\blazorshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\blazorshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.api\\blazorshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA28162E-0DCA-4782-9BC2-12C84CB21534}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\blazorshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F229FBB1-B1BD-4191-8DE1-9461EC09F728}|BlazorShop.Web\\BlazorShop.Web.csproj|d:\\2025\\loja-blazor\\blazorshop\\blazorshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Properties\\launchSettings.json",
@@ -75,32 +75,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BlazorShop.Api",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\BlazorShop.Api.csproj",
               "RelativeDocumentMoniker": "BlazorShop.Api\\BlazorShop.Api.csproj",
               "ToolTip": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\BlazorShop.Api.csproj",
               "RelativeToolTip": "BlazorShop.Api\\BlazorShop.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-11T18:11:36.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T18:11:36.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Controllers\\ProdutoController.cs",
               "ToolTip": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "BlazorShop.Api\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:00:53.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T18:00:53.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\2025\\Loja-Blazor\\BlazorShop\\BlazorShop.Api\\Program.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Program.cs",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "BlazorShop.Api\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:48:43.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:48:43.416Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T17:48:26.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:48:26.486Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Pages\\Catalogo.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T17:27:00.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:27:00.978Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "BlazorShop.Web\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T16:53:19.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:53:19.494Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:47:36.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:47:36.798Z"
             },
             {
               "$type": "Document",
@@ -173,8 +166,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Services\\ProdutoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:39:14.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:39:14.236Z"
             },
             {
               "$type": "Document",
@@ -186,8 +178,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Services\\IProdutoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:39:03.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:39:03.738Z"
             },
             {
               "$type": "Document",
@@ -199,8 +190,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T16:32:09.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:32:09.745Z"
             },
             {
               "$type": "Document",
@@ -212,8 +202,7 @@
               "RelativeToolTip": "BlazorShop.Web\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T16:22:48.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:22:48.613Z"
             }
           ]
         }
